@@ -1,0 +1,10 @@
+POST   http://localhost:3000/api/addUsuario/631bc8859accc586b2b4cf9f HTTP/1.1
+Content-Type: application/json
+{
+}
+
+###
+GET    http://localhost:3000/api/listarUsuarios HTTP/1.1
+Content-Type: application/json
+{
+}
